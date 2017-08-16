@@ -1,2 +1,2 @@
 # rgb_color_game
-First foray into javascript. A simple game of color guessing based on the given rgb value
+First foray into javascript. A simple color guessing game based on the given rgb value
